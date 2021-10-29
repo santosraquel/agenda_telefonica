@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LojaApplication<loja>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.dev.loja.LojaApplication",
+            "projectName": "loja",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-AgendaApplication<loja>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.ifpr.agenda.AgendaApplication",
+            "projectName": "loja",
+            "args": ""
+        }
+    ]
+}
